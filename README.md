@@ -1,4 +1,4 @@
-An improved version of my earlier MKS-30 upgrade, now I'm using a single Teensy 3.6 to drive two SPI displays at the same time I can actually translate the LED signals into meaningful messages for the OLEDs. So when editing you can see each parameter etc and its real value rather than some symbols of what it could possible be.
+An improved version of my earlier MKS-30 upgrade, now I'm using a single ESP-32 Dev module to drive two SPI displays at the same time I can actually translate the LED signals into meaningful messages for the OLEDs. So when editing you can see each parameter etc and its real value rather than some symbols of what it could possible be.
 
 ![Synth](photos/synth.jpg)
 
